@@ -1,0 +1,13 @@
+{
+  "name": "BLT bot",
+  "description": "Discord BLT bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.0",
+    "node-fetch": "2.0.0"
+  }
+}
