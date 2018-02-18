@@ -1,5 +1,4 @@
 {
-  "token": "NDEzOTk1NTkyNTc0OTU5NjE4.DWg_EQ.HXdOb83SgerXXbi-9a2ogEjEg20",
   "prefix": "!",
   "urlBLT": "https://api.coinmarketcap.com/v1/ticker/bitcoin-lightning/",
   "urlSuffixEUR": "?convert=EUR"
