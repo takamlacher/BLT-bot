@@ -47,6 +47,8 @@ function displayMessage(pmessage, pdescription) {
 
 bot.on('message', message => {
 	
+	displayMessage(message, "HELP!");
+	
   // It's good practice to ignore other bots. This also makes your bot ignore itself
   // and not get into a spam loop (we call that "botception").
   if(message.author.bot) return;
